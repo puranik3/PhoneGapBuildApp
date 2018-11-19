@@ -2,3 +2,6 @@ hooks/
 platforms/
 plugins/
 typings/
+builds/
+.DS_Store
+*/**/.DS_Store
